@@ -1,4 +1,4 @@
-# cart451-f20-team4
+# MycoTouch
 ## Mushroom LED Interaction
 
 **Badges**
