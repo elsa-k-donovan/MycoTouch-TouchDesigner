@@ -8,6 +8,9 @@
 
 ![Example Image](/Documentation/system_diagram.png)
 
+<img width="497" height="338" alt="Screenshot 2025-11-10 at 15 24 39" src="https://github.com/user-attachments/assets/95e8f389-eacc-47a1-9632-b4d849d7c770" />
+
+
 ## Table of Contents
 - [Installation](#installation)
 - [Setup](#setup)
