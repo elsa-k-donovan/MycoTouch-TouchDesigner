@@ -6,6 +6,8 @@
 
 [![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger)
 
+![Example Image](/Documentation/system_diagram.png)
+
 ## Table of Contents
 - [Installation](#installation)
 - [Setup](#setup)
